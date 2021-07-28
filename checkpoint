@@ -1,0 +1,2 @@
+model_checkpoint_path: "200x2_model_trained"
+all_model_checkpoint_paths: "200x2_model_trained"
